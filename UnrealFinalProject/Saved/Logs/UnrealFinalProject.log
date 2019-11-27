@@ -553,3 +553,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.27-16.31.43:308][696]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.11.27-16.31.43:443][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
 [2019.11.27-16.31.43:887][696]LogSavePackage: Moving '../../../../../PojectUnreal/PLUSIEURS/FATUnreal/UnrealFinalProject/Saved/FirstPersonExampleMap27859999467CC8A4503517BFF73093F4.tmp' to '../../../../../PojectUnreal/PLUSIEURS/FATUnreal/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.27-16.35.48:270][774]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-16.35.48:413][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.11.27-16.35.48:591][774]LogSavePackage: Moving '../../../../../PojectUnreal/PLUSIEURS/FATUnreal/UnrealFinalProject/Saved/FirstPersonExampleMapBDA31E6F4967D18583684A91A4993ABA.tmp' to '../../../../../PojectUnreal/PLUSIEURS/FATUnreal/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.11.27-16.35.54:406][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
