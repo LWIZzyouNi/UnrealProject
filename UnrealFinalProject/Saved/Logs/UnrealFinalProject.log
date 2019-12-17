@@ -1250,3 +1250,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.17-14.47.14:661][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.12.17-14.47.14:666][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
 [2019.12.17-14.47.14:704][860]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.12.17-14.47.51:430][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-14.48.14:133][904]LogEditorTransaction: Undo Add Node
+[2019.12.17-14.50.48:554][ 45]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.17-14.50.48:801][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
