@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 12/19/19 14:38:13
+=======
+﻿Log file open, 12/19/19 11:06:34
+>>>>>>> 545c8b43ae0bfa7866e281abb6a85de841686043
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -8,8 +12,13 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: UnrealFinalProject
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.065048
+=======
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.071767
+>>>>>>> 545c8b43ae0bfa7866e281abb6a85de841686043
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -117,17 +126,22 @@ LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogOnline: OSS: Creating online subsystem instance for: NULL
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+<<<<<<< HEAD
 LogInit: Build: ++UE4+Release-4.23-CL-9631420
 LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+=======
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+>>>>>>> 545c8b43ae0bfa7866e281abb6a85de841686043
 LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Net CL: 8386587
-LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
-LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line:  -EpicPortal -epicusername=Liliannismo33 -epicuserid=9ba42dbf5cdb4ae09cfd3661d1eaaa92 -epiclocale=fr-FR
-LogInit: Base Directory: D:/Steam/steamapps/common/UE_4.23/Engine/Binaries/Win64/
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -157,6 +171,7 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2019.12.19-13.38.14:191][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2019.12.19-13.38.14:191][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2019.12.19-13.38.14:191][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Lilian/Documents/UnrealProjectEnd/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
@@ -1477,3 +1492,583 @@ Script Stack (0 frames):
 [2019.12.19-14.55.56:638][884]LogD3D11RHI: ~FD3D11DynamicRHI
 [2019.12.19-14.55.56:650][884]LogExit: Exiting.
 [2019.12.19-14.55.56:661][884]Log file closed, 12/19/19 15:55:56
+=======
+[2019.12.19-10.06.34:643][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.19-10.06.34:643][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.19-10.06.34:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
+[2019.12.19-10.06.34:643][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.19-10.06.34:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
+[2019.12.19-10.06.34:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.19-10.06.34:644][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
+[2019.12.19-10.06.34:644][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
+[2019.12.19-10.06.34:646][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.19-10.06.34:646][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.19-10.06.34:647][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.19-10.06.34:647][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.19-10.06.34:647][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.19-10.06.34:650][  0]LogHAL: Display: Platform has ~ 16 GB [17033236480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.19-10.06.34:650][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.19-10.06.34:650][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.19-10.06.34:650][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.19-10.06.34:651][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Config/Windows/Engine.ini]
+[2019.12.19-10.06.34:651][  0]LogInit: Computer: LAPTOP-R73A4A68
+[2019.12.19-10.06.34:651][  0]LogInit: User: emmap
+[2019.12.19-10.06.34:651][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.19-10.06.34:651][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.19-10.06.34:651][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.19-10.06.34:651][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.19-10.06.34:651][  0]LogMemory: Process Physical Memory: 101.75 MB used, 101.75 MB peak
+[2019.12.19-10.06.34:651][  0]LogMemory: Process Virtual Memory: 99.18 MB used, 99.18 MB peak
+[2019.12.19-10.06.34:652][  0]LogMemory: Physical Memory: 8639.17 MB used,  7604.99 MB free, 16244.16 MB total
+[2019.12.19-10.06.34:652][  0]LogMemory: Virtual Memory: 4666.75 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.19-10.06.34:655][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.19-10.06.34:685][  0]LogInit: Using OS detected language (fr-FR).
+[2019.12.19-10.06.34:685][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.12.19-10.06.34:685][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.12.19-10.06.34:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2019.12.19-10.06.34:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2019.12.19-10.06.34:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2019.12.19-10.06.34:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2019.12.19-10.06.34:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2019.12.19-10.06.34:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2019.12.19-10.06.34:686][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2019.12.19-10.06.34:687][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.19-10.06.34:727][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.19-10.06.34:727][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.19-10.06.35:428][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.19-10.06.35:428][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.19-10.06.35:517][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.12.19-10.06.35:517][  0]LogD3D11RHI:       6052/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.19-10.06.35:544][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.19-10.06.35:544][  0]LogD3D11RHI:       128/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.19-10.06.35:546][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.19-10.06.35:546][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.19-10.06.35:546][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.19-10.06.35:582][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.19-10.06.35:582][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.19-10.06.35:582][  0]LogWindows: EnumDisplayDevices:
+[2019.12.19-10.06.35:583][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.19-10.06.35:583][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.19-10.06.35:583][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.19-10.06.35:583][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.19-10.06.35:584][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.19-10.06.35:584][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.19-10.06.35:584][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.12.19-10.06.35:584][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.19-10.06.35:584][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.12.19-10.06.35:584][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.12.19-10.06.35:584][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.12.19-10.06.35:584][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.12.19-10.06.35:636][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.19-10.06.35:652][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.19-10.06.35:982][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.19-10.06.35:990][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.19-10.06.35:998][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.19-10.06.36:007][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.19-10.06.36:016][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.19-10.06.36:023][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.19-10.06.36:032][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.19-10.06.36:041][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.19-10.06.36:045][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.19-10.06.36:082][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.19-10.06.36:083][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.19-10.06.36:085][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.19-10.06.36:103][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.19-10.06.36:103][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.19-10.06.36:117][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.19-10.06.36:117][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.19-10.06.36:124][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.19-10.06.36:131][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.19-10.06.36:138][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.19-10.06.36:146][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.19-10.06.36:168][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.19-10.06.36:168][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.19-10.06.36:168][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.19-10.06.36:176][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.19-10.06.36:231][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Intermediate/Shaders/WorkingDirectory/13736/).
+[2019.12.19-10.06.36:231][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/emmap/AppData/Local/Temp/UnrealShaderWorkingDir/B6DC7753412C52259CAA4C9929BDB508/'.
+[2019.12.19-10.06.36:233][  0]LogXGEController: Cleaning working directory: C:/Users/emmap/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.19-10.06.36:234][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.19-10.06.36:234][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.19-10.06.36:234][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.19-10.06.36:908][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.19-10.06.36:964][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/emmap/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.19-10.06.36:964][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/emmap/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.19-10.06.36:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.19-10.06.36:964][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.19-10.06.36:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.19-10.06.36:964][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.19-10.06.36:976][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.19-10.06.36:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.19-10.06.36:976][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.19-10.06.36:978][  0]LogDerivedDataCache: Using Local data cache path C:/Users/emmap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.19-10.06.36:978][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.19-10.06.36:978][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.19-10.06.37:009][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.19-10.06.37:012][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.19-10.06.37:012][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.19-10.06.37:072][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2019.12.19-10.06.37:371][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.19-10.06.37:566][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.19-10.06.37:566][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.19-10.06.37:566][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.19-10.06.37:566][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.19-10.06.37:566][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.19-10.06.37:577][  0]LogNetVersion: UnrealFinalProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2874034460)
+[2019.12.19-10.06.38:160][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.063367 seconds
+[2019.12.19-10.06.38:168][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.19-10.06.38:168][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.19-10.06.38:168][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.19-10.06.39:091][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.19-10.06.39:094][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.19-10.06.39:151][  0]SourceControl: Source control is disabled
+[2019.12.19-10.06.39:151][  0]SourceControl: Source control is disabled
+[2019.12.19-10.06.39:152][  0]SourceControl: Source control is disabled
+[2019.12.19-10.06.39:154][  0]SourceControl: Source control is disabled
+[2019.12.19-10.06.39:236][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.19-10.06.39:342][  0]LogOcInput: OculusInput pre-init called
+[2019.12.19-10.06.39:347][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.19-10.06.39:347][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.19-10.06.39:423][  0]LogEngine: Initializing Engine...
+[2019.12.19-10.06.39:456][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.12.19-10.06.39:457][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.19-10.06.39:717][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.19-10.06.39:739][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.19-10.06.39:809][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-10.06.39:840][  0]LogInit: FAudioDevice initialized.
+[2019.12.19-10.06.39:841][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.19-10.06.39:887][  0]LogDerivedDataCache: Saved boot cache 0.05s 73MB C:/Users/emmap/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.19-10.06.39:895][  0]LogInit: Texture streaming: Enabled
+[2019.12.19-10.06.39:919][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.19-10.06.40:013][  0]LogInit: Transaction tracking system initialized
+[2019.12.19-10.06.40:045][  0]BlueprintLog: New page: Editor Load
+[2019.12.19-10.06.40:129][  0]LocalizationService: Localization service is disabled
+[2019.12.19-10.06.40:414][  0]LogFileCache: Scanning file cache for directory 'E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Content/' took 0.01s
+[2019.12.19-10.06.40:414][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.19-10.06.40:414][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.19-10.06.40:596][  0]SourceControl: Source control is disabled
+[2019.12.19-10.06.40:596][  0]Cmd: MAP LOAD FILE="../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.19-10.06.40:597][  0]LightingResults: New page: Lighting Build
+[2019.12.19-10.06.40:600][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-10.06.40:600][  0]MapCheck: New page: Map Check
+[2019.12.19-10.06.40:600][  0]LightingResults: New page: Lighting Build
+[2019.12.19-10.06.40:626][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.19-10.06.41:144][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.19-10.06.41:373][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.19-10.06.41:403][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.12.19-10.06.41:404][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.19-10.06.41:404][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2019.12.19-10.06.41:404][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.807
+[2019.12.19-10.06.41:524][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-10.06.41:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-10.06.41:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-10.06.41:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-10.06.41:551][  0]LogCollectionManager: Loaded 0 collections in 0.001716 seconds
+[2019.12.19-10.06.41:561][  0]LogFileCache: Scanning file cache for directory 'E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/Collections/' took 0.00s
+[2019.12.19-10.06.41:561][  0]LogFileCache: Scanning file cache for directory 'E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Content/Developers/emmap/Collections/' took 0.00s
+[2019.12.19-10.06.41:561][  0]LogFileCache: Scanning file cache for directory 'E:/dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Content/Collections/' took 0.00s
+[2019.12.19-10.06.41:561][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.19-10.06.41:570][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2863 classes and 680 folders.
+[2019.12.19-10.06.41:598][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.19-10.06.41:629][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.19-10.06.41:634][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.19-10.06.41:654][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.19-10.06.41:658][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.19-10.06.41:663][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.19-10.06.41:746][  0]LogRenderer: Reallocating scene render targets to support 816x476 Format 10 NumSamples 1 (Frame:1).
+[2019.12.19-10.06.41:934][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.19-10.06.41:934][  0]LogLoad: (Engine Initialization) Total time: 8.26 seconds
+[2019.12.19-10.06.41:934][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.19-10.06.42:002][  0]LogAssetRegistry: Asset discovery search completed in 4.9302 seconds
+[2019.12.19-10.06.42:006][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.12.19-10.06.42:006][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2019.12.19-10.06.42:007][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.19-10.06.42:040][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.19-10.06.42:965][ 48]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.19-10.06.42:968][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.19-10.06.42:973][ 48]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.12.19-10.06.43:215][ 48]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.19-10.06.44:086][ 48]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.19-10.06.44:295][ 49]LogSlate: Took 0.000756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.19-10.09.01:942][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Blueprints/Doors.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.01:960][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Blueprints/SplinePipe-A_BP.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.01:970][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Blueprints/SplineTube-A_BP.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.01:981][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Blueprints/SplineWire-A_BP.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.01:994][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Maps/Example_Map.umap'. Unknown extension 'umap'.
+[2019.12.19-10.09.02:010][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Maps/Overview.umap'. Unknown extension 'umap'.
+[2019.12.19-10.09.02:025][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Cables_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:041][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Ceiling_A_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:059][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Ceiling_Supports_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:076][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Column_B_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:098][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Column_Detail_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:123][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Column_Main_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:150][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Decals.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:199][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Doors_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:272][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Floor_A-Detail_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:363][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Floor_A-Main_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:459][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Floor_B_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:562][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Hose_Hookup_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:665][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Lights_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:747][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Monitor_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:805][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Pipes_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:860][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-PowerXformer_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:907][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-StasisTube_Small_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.02:957][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Wall_A_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:015][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Wall_B_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:076][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Wall_C-Window_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:139][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Wall_C_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:208][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Materials/Sci-Wires_MAT.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:278][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Ceiling-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:366][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Ceiling_Truss-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:449][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Ceiling_Truss-B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:530][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Ceiling_Truss-C.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:597][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Column-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:673][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Column-B-Top.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:744][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Column-B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:824][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Door_Left-B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:901][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Door_Right-B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.03:984][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Floor-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:059][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Floor-B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:137][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Floor-C.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:215][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Floor-D.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:294][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:390][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-A2.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:477][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-A3.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:564][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-A4.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:653][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:750][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-C.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:852][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-Crown_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.04:985][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall-D_Door.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:110][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Architecture/Wall_Panel_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:218][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Arrow_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:310][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Arrow_B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:399][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Clearance_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:483][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Clearance_B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:579][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Connection.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:673][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Exit.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:771][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Hazard.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:875][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Hazard_B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.05:988][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Hazard_C.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:095][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Stripe_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:192][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Stripe_B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:296][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Decals/Decal_Stripe_Caution.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:406][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Lights/Light_Panel-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:516][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Lights/Light_Tube-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:623][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Hose_Hookup_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:730][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Monitor_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:851][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Monitor_B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.06:966][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Monitor_Hanging-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:082][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Pipe_B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:215][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Pipe_Bend_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:338][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Pipe_Bend_C.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:460][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Power_Transformer-A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:585][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/StasisTube_Small.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:684][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Tube_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:781][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Tube_B.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:875][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Wire_G.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.07:970][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Props/Wire_H.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:059][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Splines/Pipe_Deformable.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:159][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Splines/Tube_Deformable.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:262][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Meshes/Splines/Wire_Deformable.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:378][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Cables/Sci-Cables.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:482][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Cables/Sci-Cables_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:573][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Cables/Sci-Cables_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:652][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Cables/Sci-Cables_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:750][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Cables/Sci-Cables_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:847][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_A.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.08:944][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_A_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:032][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_A_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:137][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_A_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:228][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_A_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:329][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_Supports_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:424][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_Supports_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:522][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_Supports_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:611][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Ceiling/Sci-Ceiling_Supports_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:695][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Columns.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:790][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_B_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:886][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_B_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.09:980][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_B_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:069][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_B_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:157][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Detail_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:247][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Detail_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:328][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Detail_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:414][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Detail_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:498][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Main_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:584][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Main_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:677][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Main_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:765][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Columns/Sci-Column_Main_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:851][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Decals/Decal_Sheet.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.10:941][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Door/Sci_Doors2.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:039][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Door/Sci_Doors_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:137][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Door/Sci_Doors_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:224][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Door/Sci_Doors_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:315][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Door/Sci_Doors_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:413][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Detail_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:512][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Detail_INST_basecolor_1.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:605][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Detail_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:706][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Detail_INST_normal_1.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:807][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Main_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.11:928][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Main_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:032][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Main_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:133][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_A-Main_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:241][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_B_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:336][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_B_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:441][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_B_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:557][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci-Floor_B_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:666][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Flooring/Sci_Floors.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:750][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Hose_Hookup/Sci-Hose_Hookup.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:840][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Hose_Hookup/Sci-Hose_Hookup_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.12:940][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Hose_Hookup/Sci-Hose_Hookup_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:034][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Hose_Hookup/Sci-Hose_Hookup_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:137][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Hose_Hookup/Sci-Hose_Hookup_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:231][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Lights/Sci_Lights.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:326][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Lights/Sci_Lights_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:416][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Lights/Sci_Lights_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:515][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Lights/Sci_Lights_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:612][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Lights/Sci_Lights_INST_output_2.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:718][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Monitor/Sci-Monitor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:830][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Monitor/Sci-Monitor_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.13:946][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Monitor/Sci-Monitor_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:041][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Monitor/Sci-Monitor_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:133][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Monitor/Sci-Monitor_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:227][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Pipes/Sci_Pipes.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:304][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Pipes/Sci_Pipes_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:402][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Pipes/Sci_Pipes_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:498][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Pipes/Sci_Pipes_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:585][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Pipes/Sci_Pipes_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:682][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/PowerXformer/Sci-PowerXformer.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:779][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/PowerXformer/Sci-PowerXformer_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:882][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/PowerXformer/Sci-PowerXformer_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.14:983][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/PowerXformer/Sci-PowerXformer_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:109][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/PowerXformer/Sci-PowerXformer_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:213][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Stasis_Tube/StasisTube_Small.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:306][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Stasis_Tube/StasisTube_Small_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:392][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Stasis_Tube/StasisTube_Small_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:479][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Stasis_Tube/StasisTube_Small_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:601][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Stasis_Tube/StasisTube_Small_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:733][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_A_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:856][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_A_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.15:965][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_A_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:051][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_A_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:140][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_B_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:244][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_B_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:328][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_B_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:418][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_B_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:511][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_C-Window_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:601][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_C-Window_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:694][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_C-Window_INST_MRXA.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:782][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci-Wall_C-Window_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:871][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Walls/Sci_Walls.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.16:968][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Wires/Sci-Wires.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.17:068][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Wires/Sci-Wires_INST.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.17:183][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Wires/Sci-Wires_INST_basecolor.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.17:320][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Wires/Sci-Wires_INST_normal.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.17:441][702]LogAssetTools: Warning: Failed to import 'C:\Users\emmap\Desktop\StasisPack49\data\Content\Stasis_Pack/Substance/Wires/Sci-Wires_INST_output.uasset'. Unknown extension 'uasset'.
+[2019.12.19-10.09.39:692][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.19-10.09.43:241][845]LogSavePackage: Moving '../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/FirstPersonExampleMapE81CB6A0459ADA5CBB30499D33025A52.tmp' to '../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.19-10.09.45:805][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.12.19-10.09.45:997][976]LogSavePackage: Moving '../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Saved/FirstPersonExampleMapB3A18F7F4E8881335EEB87A69058A59B.tmp' to '../../../../../../dossier/E-Artsup/B2/Unreal 3D/ProjetFinal/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+>>>>>>> 545c8b43ae0bfa7866e281abb6a85de841686043
