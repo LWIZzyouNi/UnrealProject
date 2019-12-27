@@ -3837,3 +3837,129 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.27-19.25.32:399][847]LogPlayLevel: Display: Destroying online subsystem :Context_65
 [2019.12.27-19.26.00:424][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2019.12.27-19.26.00:797][ 41]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonExampleMap3E0AD71B42A1EA1D71AA1DA7586A260E.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.27-19.36.10:368][923]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\maxle\Desktop\UNREAL ENGINE\PROJET FINAL\SFX\Reload Futuristic.wav)
+[2019.12.27-19.36.14:066][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Reload_Futuristic" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/Reload_Futuristic.uasset" SILENT=true
+[2019.12.27-19.36.14:188][ 56]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/Reload_Futuristic526561D64BD5C6D9AD7A0F999A2386CB.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/Reload_Futuristic.uasset'
+[2019.12.27-19.38.01:916][103]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.27-19.38.04:471][159]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonCharacter394A4A8043734C66C4543DAA2CDB040A.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.27-19.38.12:025][548]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter:EventGraph.K2Node_IfThenElse_0 or K2Node_IfThenElse /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter:EventGraph.K2Node_IfThenElse_0
+[2019.12.27-19.38.12:025][548]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter:EventGraph.K2Node_VariableGet_11 or K2Node_VariableGet /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter:EventGraph.K2Node_VariableGet_11
+[2019.12.27-19.38.15:223][711]LogEditorTransaction: Undo Move Nodes
+[2019.12.27-19.38.39:217][985]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.27-19.38.40:130][985]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2019.12.27-19.38.40:577][985]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonCharacterFB69552D49F1C109F7776681EDAACA5E.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.27-19.38.41:626][ 22]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonCharacter3D0B517C49E77A8B522C1783E50D8CB1.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.27-19.38.46:639][274]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.27-19.38.47:031][274]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2019.12.27-19.38.47:902][293]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonCharacterB33F9FAB49517EC4E87CDFB39FA0720D.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.27-19.38.48:924][347]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.27-19.38.49:019][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.38.49:019][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.27-19.38.49:031][347]PIE: New page: PIE session: FirstPersonExampleMap (27 déc. 2019 21:38:49)
+[2019.12.27-19.38.49:031][347]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-19.38.49:157][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126270s)
+[2019.12.27-19.38.49:273][347]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.27-19.38.49:327][347]LogPlayLevel: PIE: World Init took: (0.170069s)
+[2019.12.27-19.38.49:327][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.296536s)
+[2019.12.27-19.38.49:386][347]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.12.27-19.38.49:485][347]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.27-19.38.49:496][347]LogInit: FAudioDevice initialized.
+[2019.12.27-19.38.49:519][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-19.38.49:526][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.27-19.38.49:544][347]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.27-20.38.49
+[2019.12.27-19.38.49:567][347]LogWorld: Bringing up level for play took: 0.040741
+[2019.12.27-19.38.49:582][347]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2019.12.27-19.38.49:759][347]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,901
+[2019.12.27-19.38.49:781][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.38.53:192][509]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Reload_Futuristic...
+[2019.12.27-19.38.53:336][509]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 582208 while cooking SoundWave /Game/SFX/Reload_Futuristic.Reload_Futuristic.
+[2019.12.27-19.39.14:508][715]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill
+	SecondaryProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SecondaryProjectile_C_2
+	Function /Game/FirstPersonBP/Blueprints/SecondaryProjectile.SecondaryProjectile_C:ExecuteUbergraph_SecondaryProjectile:00AC
+[2019.12.27-19.39.14:538][715]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill". Blueprint:  SecondaryProjectile Function:  Execute Ubergraph Secondary Projectile Graph:  EventGraph Node:  Branch
+[2019.12.27-19.39.29:700][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.39.29:701][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-19.39.29:701][584]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-19.39.29:825][584]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.27-19.39.29:851][584]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.39.30:038][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.27-19.39.30:076][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.39.30:175][584]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.12.27-19.39.30:313][585]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2019.12.27-19.39.32:044][677]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-19.39.32:051][677]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-19.46.42:179][400]LogUObjectHash: Compacting FUObjectHashTables data took  12.02ms
+[2019.12.27-19.46.43:032][400]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonExampleMap_Auto2C008F83E4A2E99A8BEE9808C0CF62CFA.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2019.12.27-19.46.43:053][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.026
+[2019.12.27-19.46.43:053][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.026
+[2019.12.27-19.49.11:340][928]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\maxle\Desktop\UNREAL ENGINE\PROJET FINAL\SFX\Lancé de couteau.wav)
+[2019.12.27-19.49.15:289][928]LogSlate: Window 'Message' being destroyed
+[2019.12.27-19.49.16:416][981]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Lancé_de_couteau...
+[2019.12.27-19.49.16:432][981]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 16960 while cooking SoundWave /Game/SFX/Lancé_de_couteau.Lancé_de_couteau.
+[2019.12.27-19.49.18:146][ 75]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1749)].
+[2019.12.27-19.49.18:170][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Lancé_de_couteau" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/Lancé_de_couteau.uasset" SILENT=true
+[2019.12.27-19.49.18:183][ 75]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/Lancé_de_couteauC44C5C4445840C1F3B760894A09098FA.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/Lancé_de_couteau.uasset'
+[2019.12.27-19.50.26:773][824]BlueprintLog: New page: Compile FirstPersonCharacter
+[2019.12.27-19.50.27:758][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.12.27-19.50.28:855][847]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonCharacter5A90A0104331E72A865DE098867CABAB.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.12.27-19.54.32:120][799]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.54.33:422][844]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.27-19.54.33:422][844]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.54.34:315][868]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.27-19.54.34:315][868]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.54.35:445][905]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.27-19.54.35:445][905]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.54.54:206][904]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.54.54:233][904]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.55.02:680][268]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Corde.Corde
+[2019.12.27-19.55.08:899][491]LogSlate: Window 'Corde' being destroyed
+[2019.12.27-19.55.08:951][491]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.56.18:743][354]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/LaserKnife.LaserKnife
+[2019.12.27-19.58.40:543][846]LogSlate: Window 'LaserKnife' being destroyed
+[2019.12.27-19.58.46:947][ 67]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\maxle\Desktop\UNREAL ENGINE\PROJET FINAL\SFX\Corde.wav)
+[2019.12.27-19.58.49:476][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2019.12.27-19.58.49:835][ 77]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonExampleMap4EECAB38473DD51293CE99B208956318.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.12.27-19.58.50:734][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Corde" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/Corde.uasset" SILENT=true
+[2019.12.27-19.58.50:744][122]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/Corde6D8D4EB644ACDFDB91BEEF8F54E54AF5.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/Corde.uasset'
+[2019.12.27-19.58.56:714][467]BlueprintLog: New page: Compile LaserKnife
+[2019.12.27-19.58.57:199][467]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2019.12.27-19.58.57:636][484]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/LaserKnife31E203F1442C669BFEF74AAA27146B08.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/LaserKnife.uasset'
+[2019.12.27-19.58.59:811][605]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.27-19.58.59:837][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.58.59:837][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.27-19.58.59:837][605]PIE: New page: PIE session: FirstPersonExampleMap (27 déc. 2019 21:58:59)
+[2019.12.27-19.58.59:837][605]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-19.58.59:864][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026283s)
+[2019.12.27-19.58.59:865][605]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.27-19.58.59:866][605]LogPlayLevel: PIE: World Init took: (0.001946s)
+[2019.12.27-19.58.59:866][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028450s)
+[2019.12.27-19.58.59:921][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.27-19.58.59:936][605]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.27-19.58.59:948][605]LogInit: FAudioDevice initialized.
+[2019.12.27-19.58.59:967][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-19.58.59:967][605]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.27-19.58.59:974][605]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.27-20.58.59
+[2019.12.27-19.58.59:975][605]LogWorld: Bringing up level for play took: 0.006141
+[2019.12.27-19.58.59:975][605]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2019.12.27-19.58.59:989][605]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1,131
+[2019.12.27-19.58.59:989][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.59.01:398][665]LogScript: Warning: Accessed None trying to read property CallFunc_BreakHitResult_HitComponent
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:2074
+[2019.12.27-19.59.01:399][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakHitResult_HitComponent". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Grab Component at Location
+[2019.12.27-19.59.18:300][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.59.18:303][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-19.59.18:304][637]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-19.59.18:330][637]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.27-19.59.18:336][637]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-19.59.18:460][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.27-19.59.18:461][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-19.59.18:537][637]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.27-19.59.18:623][638]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.12.27-19.59.19:781][695]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-19.59.19:791][695]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-19.59.36:449][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/RopeAttenuation" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/RopeAttenuation.uasset" SILENT=true
+[2019.12.27-19.59.36:460][606]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/RopeAttenuationE7B284D843EF1B68577FD5B1DE005F02.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/RopeAttenuation.uasset'
+[2019.12.27-19.59.49:850][384]BlueprintLog: New page: Compile LaserKnife
+[2019.12.27-19.59.50:111][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.27-19.59.50:596][406]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/LaserKnife1BAE8C444B74668A7B9F3B84A397540A.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/LaserKnife.uasset'
