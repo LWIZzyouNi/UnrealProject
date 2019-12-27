@@ -646,3 +646,4 @@ Make sure 'SecoursBP_C' has been compiled for  Get playerHealth
 [2019.12.27-10.59.52:706][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
 [2019.12.27-10.59.52:962][ 42]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/FirstPersonExampleMap1A93D126456B3F33EEEC9184554585D3.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.12.27-11.03.27:887][924]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F6F710F3-4DA2-F1FE-0C34-A9B2E29C71EF}
+[2019.12.27-11.29.11:333][583]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
