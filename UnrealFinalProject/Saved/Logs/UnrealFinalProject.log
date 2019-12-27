@@ -6816,3 +6816,15 @@ Make sure 'FirstPersonCharacter_C' has been compiled for  Set endingInitialisati
 [2019.12.27-15.30.18:224][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.12.27-15.30.18:320][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
 [2019.12.27-15.30.18:794][ 55]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime4F9AA8C94CAA0F333AF894A44BA28BA3.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2019.12.27-15.32.32:394][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.27-15.32.32:554][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.12.27-15.32.32:835][621]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime9A43A1774D0500FB68EF2DBCBFE15FE1.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2019.12.27-15.32.34:096][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.27-15.32.35:435][745]Cmd: DELETE
+[2019.12.27-15.32.35:435][745]Cmd: ACTOR DELETE
+[2019.12.27-15.32.35:438][745]LogEditorActor: Deleted Actor: CubeInteractif_C
+[2019.12.27-15.32.35:489][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.12.27-15.32.35:489][745]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2019.12.27-15.32.36:634][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.27-15.32.36:851][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.12.27-15.32.37:138][813]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaximeCB4F96F4473AE398B6A231B7F00C0463.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
