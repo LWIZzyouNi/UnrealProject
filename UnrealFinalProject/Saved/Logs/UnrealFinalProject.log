@@ -3963,3 +3963,192 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.27-19.59.49:850][384]BlueprintLog: New page: Compile LaserKnife
 [2019.12.27-19.59.50:111][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
 [2019.12.27-19.59.50:596][406]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/LaserKnife1BAE8C444B74668A7B9F3B84A397540A.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/FirstPersonBP/Blueprints/LaserKnife.uasset'
+[2019.12.27-20.03.15:307][677]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.27-20.03.15:335][677]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.03.15:335][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.27-20.03.15:336][677]PIE: New page: PIE session: FirstPersonExampleMap (27 déc. 2019 22:03:15)
+[2019.12.27-20.03.15:336][677]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-20.03.15:353][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016574s)
+[2019.12.27-20.03.15:354][677]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.27-20.03.15:354][677]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2019.12.27-20.03.15:354][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018469s)
+[2019.12.27-20.03.15:447][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.27-20.03.15:460][677]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.27-20.03.15:471][677]LogInit: FAudioDevice initialized.
+[2019.12.27-20.03.15:490][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-20.03.15:490][677]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.27-20.03.15:498][677]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.27-21.03.15
+[2019.12.27-20.03.15:499][677]LogWorld: Bringing up level for play took: 0.007556
+[2019.12.27-20.03.15:499][677]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2019.12.27-20.03.15:511][677]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,653
+[2019.12.27-20.03.15:512][677]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.03.50:531][573]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.03.50:534][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-20.03.50:534][573]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-20.03.50:559][573]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.27-20.03.50:564][573]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.03.50:586][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.27-20.03.50:587][573]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.03.50:680][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.27-20.03.50:716][574]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2019.12.27-20.03.51:516][617]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.27-20.03.51:542][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.03.51:542][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.27-20.03.51:542][617]PIE: New page: PIE session: FirstPersonExampleMap (27 déc. 2019 22:03:51)
+[2019.12.27-20.03.51:542][617]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-20.03.51:557][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015085s)
+[2019.12.27-20.03.51:559][617]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.27-20.03.51:572][617]LogPlayLevel: PIE: World Init took: (0.014749s)
+[2019.12.27-20.03.51:572][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030151s)
+[2019.12.27-20.03.51:616][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.12.27-20.03.51:630][617]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.27-20.03.51:639][617]LogInit: FAudioDevice initialized.
+[2019.12.27-20.03.51:658][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-20.03.51:659][617]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.27-20.03.51:666][617]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.27-21.03.51
+[2019.12.27-20.03.51:668][617]LogWorld: Bringing up level for play took: 0.007828
+[2019.12.27-20.03.51:668][617]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2019.12.27-20.03.51:687][617]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,829
+[2019.12.27-20.03.51:687][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.04.23:553][350]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill
+	SecondaryProjectile_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.SecondaryProjectile_C_3
+	Function /Game/FirstPersonBP/Blueprints/SecondaryProjectile.SecondaryProjectile_C:ExecuteUbergraph_SecondaryProjectile:00AC
+[2019.12.27-20.04.23:553][350]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is pending kill". Blueprint:  SecondaryProjectile Function:  Execute Ubergraph Secondary Projectile Graph:  EventGraph Node:  Branch
+[2019.12.27-20.04.54:559][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.04.54:560][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.27-20.04.54:560][125]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.27-20.04.54:590][125]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.27-20.04.54:597][125]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.04.54:625][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.27-20.04.54:627][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.27-20.04.55:035][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.12.27-20.04.55:134][126]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.12.27-20.04.56:439][195]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-20.04.56:444][195]LogSlate: Window 'Message Log' being destroyed
+[2019.12.27-20.19.58:449][703]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\maxle\Downloads\Crysis 2 Score_  Insertion.mp3)
+[2019.12.27-20.20.00:499][818]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/Crysis_2_Score___InsertionA31F9AA74B1C2E40D7615DA1E1E3C035.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/SFX/OST/Crysis_2_Score___Insertion.uasset'
+[2019.12.27-20.20.11:676][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.27-20.20.13:726][272]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.27-20.20.13:971][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.27-20.20.14:019][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.27-20.20.14:057][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.27-20.24.11:472][ 16]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{ff8f2899-0871-471a-8ead-3376f506f440} was removed. Shutting down audio device.
+[2019.12.27-20.24.11:473][ 16]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.27-20.26.48:075][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.27-20.26.48:558][159]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.48:975][159]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.27-20.26.48:975][159]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.49:145][159]LogSlate: Window 'UnrealFinalProject - Unreal Editor' being destroyed
+[2019.12.27-20.26.49:163][159]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.27-20.26.49:963][160]Cmd: QUIT_EDITOR
+[2019.12.27-20.26.51:633][160]LogExit: Preparing to exit.
+[2019.12.27-20.26.52:816][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:816][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:816][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:816][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:816][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:816][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:816][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:816][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:817][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:817][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:818][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:818][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:818][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:818][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:818][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:818][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:819][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:819][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:819][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:819][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:819][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:819][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:819][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:819][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:820][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:820][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:820][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:820][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:820][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:820][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:820][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:820][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:822][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:822][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:822][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:822][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:822][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:822][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:822][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:822][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:824][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:824][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:825][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:826][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:826][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:826][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:826][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:826][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:826][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:826][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:826][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:827][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:827][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:827][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:827][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:827][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:827][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:827][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:827][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:828][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:828][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:828][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:828][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:828][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:828][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:828][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:828][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:830][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:830][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:830][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:830][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:830][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:830][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:830][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:830][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:832][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:832][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:832][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:832][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:832][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:832][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:832][160]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.12.27-20.26.52:832][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:833][160]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.52:835][160]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.53:169][160]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.27-20.26.53:636][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.27-20.26.53:638][160]LogExit: Editor shut down
+[2019.12.27-20.26.53:642][160]LogExit: Transaction tracking system shut down
