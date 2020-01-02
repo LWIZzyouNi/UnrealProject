@@ -2521,3 +2521,677 @@ Make sure 'SecoursBP_C' has been compiled for  Get playerHealth
 [2020.01.02-21.43.23:290][593]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_Auto1AC8FCBEE4A9ED4B68FB62A87874DC123.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/Autosaves/Game/Maps/MapsMaxime_Auto1.umap'
 [2020.01.02-21.43.23:308][593]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapsMaxime' took 0.535
 [2020.01.02-21.43.23:308][593]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.535
+[2020.01.02-22.07.02:235][818]LogEditorViewport: Clicking on Actor (LMB): tourelle_C (tourelle2)
+[2020.01.02-22.07.03:520][832]Cmd: DELETE
+[2020.01.02-22.07.03:520][832]Cmd: ACTOR DELETE
+[2020.01.02-22.07.03:812][832]LogEditorActor: Deleted Actor: tourelle_C
+[2020.01.02-22.07.04:097][832]LogUObjectHash: Compacting FUObjectHashTables data took  13.12ms
+[2020.01.02-22.07.04:098][832]LogEditorActor: Deleted 1 Actors (0.387 secs)
+[2020.01.02-22.07.04:631][855]LogEditorViewport: Clicking on Actor (LMB): tourelle_C (tourelle3)
+[2020.01.02-22.07.07:358][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.07.07:454][970]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.07.07:520][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.07.07:533][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.07.07:548][970]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:07:07)
+[2020.01.02-22.07.07:553][970]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.07.07:698][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144922s)
+[2020.01.02-22.07.07:877][970]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.07.07:894][970]LogPlayLevel: PIE: World Init took: (0.195905s)
+[2020.01.02-22.07.07:894][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.342310s)
+[2020.01.02-22.07.07:971][970]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.01.02-22.07.07:994][970]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.07.08:009][970]LogInit: FAudioDevice initialized.
+[2020.01.02-22.07.08:071][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.07.08:125][970]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.07.08:206][970]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.07.08
+[2020.01.02-22.07.08:212][970]LogWorld: Bringing up level for play took: 0.061082
+[2020.01.02-22.07.08:224][970]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2020.01.02-22.07.08:411][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.07.08:412][970]LogScript: Warning: Accessed None trying to read property door
+	Dalle_C /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime:PersistentLevel.Dalle_2
+	Function /Game/Blueprints/Dalle.Dalle_C:ExecuteUbergraph_Dalle:0496
+[2020.01.02-22.07.08:412][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.07.08:412][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.07.08:412][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.07.08:551][970]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 0,8
+[2020.01.02-22.07.08:564][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.07.25:821][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set Actor Enable Collision
+[2020.01.02-22.07.25:822][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  AddActorLocalOffset
+[2020.01.02-22.08.01:235][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.08.01:585][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.08.01:585][972]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.08.01:619][972]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.08.01:628][972]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.08.01:789][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.08.01:789][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.08.01:935][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.01.02-22.08.02:089][973]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2020.01.02-22.08.03:692][ 32]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.08.03:705][ 32]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.08.29:487][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.02-22.08.30:531][135]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_Auto25C7DD4254206E0052C4D3F98A1F9D687.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/Autosaves/Game/Maps/MapsMaxime_Auto2.umap'
+[2020.01.02-22.08.30:587][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MapsMaxime' took 1.183
+[2020.01.02-22.08.30:587][135]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.183
+[2020.01.02-22.09.21:873][325]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.09.21:933][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.09.21:933][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.09.21:934][325]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:09:21)
+[2020.01.02-22.09.21:951][325]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.09.21:975][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023712s)
+[2020.01.02-22.09.21:977][325]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.09.21:977][325]LogPlayLevel: PIE: World Init took: (0.002029s)
+[2020.01.02-22.09.21:978][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.026109s)
+[2020.01.02-22.09.22:040][325]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.01.02-22.09.22:049][325]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.09.22:062][325]LogInit: FAudioDevice initialized.
+[2020.01.02-22.09.22:084][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.09.22:085][325]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.09.22:105][325]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.09.22
+[2020.01.02-22.09.22:107][325]LogWorld: Bringing up level for play took: 0.021437
+[2020.01.02-22.09.22:108][325]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2020.01.02-22.09.22:119][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.09.22:119][325]LogScript: Warning: Accessed None trying to read property door
+	Dalle_C /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime:PersistentLevel.Dalle_2
+	Function /Game/Blueprints/Dalle.Dalle_C:ExecuteUbergraph_Dalle:0496
+[2020.01.02-22.09.22:119][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.09.22:119][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.09.22:119][325]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.09.22:137][325]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 0,385
+[2020.01.02-22.09.22:138][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.09.23:640][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.09.23:644][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.09.23:644][370]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.09.23:672][370]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.09.23:679][370]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.09.23:710][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.09.23:711][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.09.23:828][370]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.01.02-22.09.23:958][371]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2020.01.02-22.09.25:053][410]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.09.25:063][410]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.09.45:521][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.01.02-22.09.49:608][362]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.10.21:170][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door02)
+[2020.01.02-22.10.22:437][892]Cmd: DELETE
+[2020.01.02-22.10.22:437][892]Cmd: ACTOR DELETE
+[2020.01.02-22.10.22:446][892]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.02-22.10.22:504][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.01.02-22.10.22:504][892]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2020.01.02-22.10.30:604][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.10.39:244][645]LogActorFactory: Actor Factory created SM_Floor01
+[2020.01.02-22.10.40:357][705]LogActorFactory: Actor Factory created SM_Floor01
+[2020.01.02-22.10.48:635][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.10.48:703][103]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.10.48:750][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.10.48:750][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.10.48:750][103]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:10:48)
+[2020.01.02-22.10.48:782][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.10.48:809][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026346s)
+[2020.01.02-22.10.48:812][103]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.10.48:813][103]LogPlayLevel: PIE: World Init took: (0.003921s)
+[2020.01.02-22.10.48:814][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.031237s)
+[2020.01.02-22.10.48:872][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.01.02-22.10.48:885][103]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.10.48:896][103]LogInit: FAudioDevice initialized.
+[2020.01.02-22.10.48:918][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.10.48:919][103]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.10.48:942][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.10.48
+[2020.01.02-22.10.48:945][103]LogWorld: Bringing up level for play took: 0.025309
+[2020.01.02-22.10.48:946][103]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.01.02-22.10.48:955][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.10.48:956][103]LogScript: Warning: Accessed None trying to read property door
+	Dalle_C /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime:PersistentLevel.Dalle_2
+	Function /Game/Blueprints/Dalle.Dalle_C:ExecuteUbergraph_Dalle:0496
+[2020.01.02-22.10.48:956][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.10.48:956][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.10.48:956][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.10.48:976][103]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 1,226
+[2020.01.02-22.10.48:977][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.10.59:099][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.10.59:103][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.10.59:103][530]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.10.59:140][530]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.10.59:149][530]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.10.59:172][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.10.59:173][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.10.59:310][530]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2020.01.02-22.10.59:426][531]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.01.02-22.11.00:389][565]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.11.00:405][565]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.11.01:591][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall10)
+[2020.01.02-22.11.08:448][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall08_InnerCorner3)
+[2020.01.02-22.11.10:726][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall10)
+[2020.01.02-22.11.13:968][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe01)
+[2020.01.02-22.11.38:771][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.11.42:556][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.11.50:108][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.11.50:180][952]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.11.50:224][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.11.50:225][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.11.50:225][952]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:11:50)
+[2020.01.02-22.11.50:231][952]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.11.50:251][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020100s)
+[2020.01.02-22.11.50:253][952]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.11.50:254][952]LogPlayLevel: PIE: World Init took: (0.002478s)
+[2020.01.02-22.11.50:254][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.022932s)
+[2020.01.02-22.11.50:309][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.01.02-22.11.50:319][952]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.11.50:329][952]LogInit: FAudioDevice initialized.
+[2020.01.02-22.11.50:351][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.11.50:352][952]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.11.50:374][952]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.11.50
+[2020.01.02-22.11.50:377][952]LogWorld: Bringing up level for play took: 0.023253
+[2020.01.02-22.11.50:377][952]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.01.02-22.11.50:389][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.11.50:389][952]LogScript: Warning: Accessed None trying to read property door
+	Dalle_C /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime:PersistentLevel.Dalle_2
+	Function /Game/Blueprints/Dalle.Dalle_C:ExecuteUbergraph_Dalle:0496
+[2020.01.02-22.11.50:390][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.11.50:390][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.11.50:390][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.11.50:412][952]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 0,661
+[2020.01.02-22.11.50:412][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.11.57:920][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.11.57:922][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.11.57:922][258]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.11.57:960][258]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.11.57:967][258]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.11.58:001][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.11.58:002][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.11.58:128][258]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.01.02-22.11.58:245][259]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.01.02-22.11.59:510][301]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.11.59:521][301]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.12.00:179][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe01)
+[2020.01.02-22.12.05:501][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe04)
+[2020.01.02-22.12.27:524][678]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall08_InnerCorner9)
+[2020.01.02-22.12.27:971][678]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.12.28:672][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe04)
+[2020.01.02-22.12.32:292][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe5)
+[2020.01.02-22.12.39:175][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall45)
+[2020.01.02-22.12.47:097][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall10)
+[2020.01.02-22.12.59:859][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall08_InnerCorner2)
+[2020.01.02-22.13.03:480][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.13.03:552][366]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.13.03:614][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.13.03:614][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.13.03:614][366]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:13:03)
+[2020.01.02-22.13.03:620][366]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.13.03:642][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022184s)
+[2020.01.02-22.13.03:643][366]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.13.03:644][366]LogPlayLevel: PIE: World Init took: (0.002087s)
+[2020.01.02-22.13.03:644][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.024787s)
+[2020.01.02-22.13.03:698][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.01.02-22.13.03:708][366]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.13.03:719][366]LogInit: FAudioDevice initialized.
+[2020.01.02-22.13.03:743][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.13.03:744][366]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.13.03:762][366]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.13.03
+[2020.01.02-22.13.03:764][366]LogWorld: Bringing up level for play took: 0.018774
+[2020.01.02-22.13.03:764][366]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.01.02-22.13.03:771][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.13.03:772][366]LogScript: Warning: Accessed None trying to read property door
+	Dalle_C /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime:PersistentLevel.Dalle_2
+	Function /Game/Blueprints/Dalle.Dalle_C:ExecuteUbergraph_Dalle:0496
+[2020.01.02-22.13.03:772][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.13.03:772][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.13.03:772][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.13.03:791][366]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 0,04
+[2020.01.02-22.13.03:791][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.13.13:029][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.13.13:031][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.13.13:031][743]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.13.13:072][743]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.13.13:080][743]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.13.13:109][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.13.13:110][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.13.13:260][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.01.02-22.13.13:296][743]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.13.13:382][744]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.01.02-22.13.14:458][778]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.13.14:468][778]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.13.17:421][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor45)
+[2020.01.02-22.13.28:421][288]Cmd: EDIT COPY
+[2020.01.02-22.13.28:730][288]Cmd: EDIT PASTE
+[2020.01.02-22.13.35:889][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.14.13:704][513]Cmd: DELETE
+[2020.01.02-22.14.13:704][513]Cmd: ACTOR DELETE
+[2020.01.02-22.14.13:719][513]LogEditorActor: Deleted Actor: RewardTrigger_C
+[2020.01.02-22.14.13:912][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.01.02-22.14.13:913][513]LogEditorActor: Deleted 1 Actors (0.208 secs)
+[2020.01.02-22.14.19:204][757]LogEditorViewport: Clicking on Actor (LMB): InitialisationSong_C (InitialisationSong)
+[2020.01.02-22.14.20:737][835]Cmd: DELETE
+[2020.01.02-22.14.20:737][835]Cmd: ACTOR DELETE
+[2020.01.02-22.14.20:746][835]LogEditorActor: Deleted Actor: InitialisationSong_C
+[2020.01.02-22.14.20:804][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.02-22.14.20:805][835]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2020.01.02-22.14.21:420][868]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.14.21:500][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.01.02-22.14.21:925][868]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaximeB086695B413D70BE5841F88D64D82111.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.02-22.14.22:000][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.02-22.14.23:217][868]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltData8526CE8F492725B2E7288D9D23C0E140.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.02-22.14.28:427][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe01)
+[2020.01.02-22.14.29:043][132]Cmd: EDIT COPY
+[2020.01.02-22.14.29:310][143]Cmd: EDIT PASTE
+[2020.01.02-22.14.49:434][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall08_InnerCorner3)
+[2020.01.02-22.14.50:340][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe01)
+[2020.01.02-22.14.58:793][480]Cmd: TRANSACTION UNDO
+[2020.01.02-22.14.58:793][480]LogEditorTransaction: Undo Scale Actors
+[2020.01.02-22.15.07:574][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FabricPipe7)
+[2020.01.02-22.15.16:668][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor45)
+[2020.01.02-22.15.17:380][285]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor46)
+[2020.01.02-22.15.21:252][447]Cmd: EDIT COPY
+[2020.01.02-22.15.21:491][456]Cmd: EDIT PASTE
+[2020.01.02-22.15.29:049][768]Cmd: TRANSACTION UNDO
+[2020.01.02-22.15.29:049][768]LogEditorTransaction: Undo Paste
+[2020.01.02-22.15.31:021][832]Cmd: TRANSACTION UNDO
+[2020.01.02-22.15.31:021][832]LogEditorTransaction: Undo Move Actors
+[2020.01.02-22.15.31:214][838]Cmd: TRANSACTION UNDO
+[2020.01.02-22.15.31:214][838]LogEditorTransaction: Undo Move Actors
+[2020.01.02-22.15.33:693][932]Cmd: EDIT COPY
+[2020.01.02-22.15.33:948][940]Cmd: EDIT PASTE
+[2020.01.02-22.15.44:042][364]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor46)
+[2020.01.02-22.15.44:466][380]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor45)
+[2020.01.02-22.15.46:035][454]Cmd: EDIT COPY
+[2020.01.02-22.15.46:372][469]Cmd: EDIT PASTE
+[2020.01.02-22.15.51:157][671]Cmd: EDIT COPY
+[2020.01.02-22.15.51:308][675]Cmd: EDIT PASTE
+[2020.01.02-22.15.55:489][835]Cmd: EDIT COPY
+[2020.01.02-22.15.55:663][842]Cmd: EDIT PASTE
+[2020.01.02-22.16.08:157][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.16.14:583][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.16.21:323][699]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.16.21:415][699]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.01.02-22.16.21:845][699]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime167D23E3442F901644BD7EB6168E9C5D.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.02-22.16.21:907][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.02-22.16.22:422][699]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltData6E1A49BA463A94E61EC6C8A38A182E5F.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.02-22.16.22:683][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.16.22:786][713]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.16.22:840][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.22:841][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.16.22:841][713]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:16:22)
+[2020.01.02-22.16.22:843][713]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.16.22:865][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022549s)
+[2020.01.02-22.16.22:867][713]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.16.22:867][713]LogPlayLevel: PIE: World Init took: (0.002045s)
+[2020.01.02-22.16.22:868][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.025091s)
+[2020.01.02-22.16.22:925][713]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.01.02-22.16.22:935][713]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.16.22:947][713]LogInit: FAudioDevice initialized.
+[2020.01.02-22.16.22:970][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.16.22:970][713]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.16.22:993][713]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.16.22
+[2020.01.02-22.16.22:996][713]LogWorld: Bringing up level for play took: 0.025845
+[2020.01.02-22.16.22:997][713]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.01.02-22.16.23:009][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.23:009][713]LogScript: Warning: Accessed None trying to read property door
+	Dalle_C /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime:PersistentLevel.Dalle_2
+	Function /Game/Blueprints/Dalle.Dalle_C:ExecuteUbergraph_Dalle:0496
+[2020.01.02-22.16.23:009][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.23:009][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.23:010][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.23:030][713]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime -0,72
+[2020.01.02-22.16.23:031][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.24:745][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.24:748][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.16.24:749][765]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.16.24:785][765]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.16.24:793][765]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.16.24:816][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.16.24:816][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.24:968][765]LogUObjectHash: Compacting FUObjectHashTables data took   9.46ms
+[2020.01.02-22.16.25:004][765]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.16.25:086][766]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.01.02-22.16.26:587][814]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.16.26:600][814]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.16.31:069][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2020.01.02-22.16.32:020][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.16.32:100][910]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.16.32:144][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.32:144][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.16.32:145][910]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:16:32)
+[2020.01.02-22.16.32:155][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.16.32:181][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025846s)
+[2020.01.02-22.16.32:182][910]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.16.32:182][910]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2020.01.02-22.16.32:182][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.027649s)
+[2020.01.02-22.16.32:240][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.01.02-22.16.32:250][910]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.16.32:263][910]LogInit: FAudioDevice initialized.
+[2020.01.02-22.16.32:284][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.16.32:285][910]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.16.32:306][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.16.32
+[2020.01.02-22.16.32:308][910]LogWorld: Bringing up level for play took: 0.022238
+[2020.01.02-22.16.32:309][910]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2020.01.02-22.16.32:318][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.32:318][910]LogScript: Warning: Accessed None trying to read property door
+	Dalle_C /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime:PersistentLevel.Dalle_2
+	Function /Game/Blueprints/Dalle.Dalle_C:ExecuteUbergraph_Dalle:0496
+[2020.01.02-22.16.32:318][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.32:319][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.32:319][910]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.16.32:338][910]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 0,587
+[2020.01.02-22.16.32:339][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.39:875][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.39:876][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.16.39:876][180]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.16.39:915][180]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.16.39:924][180]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.16.39:947][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.16.39:948][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.16.40:075][180]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2020.01.02-22.16.40:120][180]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.16.40:199][181]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2020.01.02-22.16.40:944][200]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.16.40:961][200]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.16.47:625][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor50)
+[2020.01.02-22.16.52:681][598]Cmd: TRANSACTION UNDO
+[2020.01.02-22.16.52:681][598]LogEditorTransaction: Undo Scale Actors
+[2020.01.02-22.16.53:357][619]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.16.53:689][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor59)
+[2020.01.02-22.17.03:097][935]Cmd: EDIT COPY
+[2020.01.02-22.17.03:275][942]Cmd: EDIT PASTE
+[2020.01.02-22.17.21:619][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor60)
+[2020.01.02-22.17.22:189][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor59)
+[2020.01.02-22.17.24:633][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.17.25:099][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor76)
+[2020.01.02-22.17.25:993][622]Cmd: DELETE
+[2020.01.02-22.17.25:993][622]Cmd: ACTOR DELETE
+[2020.01.02-22.17.26:003][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.02-22.17.26:066][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.01.02-22.17.26:067][622]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2020.01.02-22.17.26:416][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor75)
+[2020.01.02-22.17.27:218][665]Cmd: DELETE
+[2020.01.02-22.17.27:218][665]Cmd: ACTOR DELETE
+[2020.01.02-22.17.27:233][665]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.02-22.17.27:295][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.02-22.17.27:295][665]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2020.01.02-22.17.27:567][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor74)
+[2020.01.02-22.17.27:664][677]Cmd: DELETE
+[2020.01.02-22.17.27:664][677]Cmd: ACTOR DELETE
+[2020.01.02-22.17.27:672][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.02-22.17.27:722][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.02-22.17.27:723][677]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.01.02-22.17.28:030][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor73)
+[2020.01.02-22.17.28:084][690]Cmd: DELETE
+[2020.01.02-22.17.28:084][690]Cmd: ACTOR DELETE
+[2020.01.02-22.17.28:090][690]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.02-22.17.28:141][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.01.02-22.17.28:142][690]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2020.01.02-22.17.30:189][776]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.30:189][776]LogEditorTransaction: Undo Delete Actors
+[2020.01.02-22.17.30:456][779]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.30:456][779]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.02-22.17.30:945][795]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.30:945][795]LogEditorTransaction: Undo Delete Actors
+[2020.01.02-22.17.31:163][800]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.31:163][800]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.02-22.17.31:338][806]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.31:338][806]LogEditorTransaction: Undo Delete Actors
+[2020.01.02-22.17.31:522][809]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.31:523][809]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.02-22.17.32:091][831]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.32:091][831]LogEditorTransaction: Undo Delete Actors
+[2020.01.02-22.17.32:316][836]Cmd: TRANSACTION UNDO
+[2020.01.02-22.17.32:316][836]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.02-22.17.33:166][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor60)
+[2020.01.02-22.17.33:655][876]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor58)
+[2020.01.02-22.17.34:079][887]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor57)
+[2020.01.02-22.17.34:438][896]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor59)
+[2020.01.02-22.17.34:996][913]Cmd: EDIT COPY
+[2020.01.02-22.17.35:194][919]Cmd: EDIT PASTE
+[2020.01.02-22.17.41:054][108]Cmd: EDIT COPY
+[2020.01.02-22.17.41:371][119]Cmd: EDIT PASTE
+[2020.01.02-22.17.45:669][254]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.17.49:491][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor76)
+[2020.01.02-22.17.50:322][372]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor75)
+[2020.01.02-22.17.50:715][379]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor73)
+[2020.01.02-22.17.51:066][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor74)
+[2020.01.02-22.17.51:434][393]Cmd: EDIT COPY
+[2020.01.02-22.17.51:659][398]Cmd: EDIT PASTE
+[2020.01.02-22.17.54:910][472]Cmd: EDIT COPY
+[2020.01.02-22.17.55:105][476]Cmd: EDIT PASTE
+[2020.01.02-22.17.58:093][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2020.01.02-22.18.01:304][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.18.03:633][660]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.18.03:711][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.01.02-22.18.04:134][660]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime8F9251A9472630B12D7752B24877625B.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.02-22.18.04:196][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.02-22.18.04:704][660]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltData93F255D74BABCF37EDAD3DB9A5A2688D.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.02-22.18.06:083][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.18.19:998][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.18.20:393][979]LogStaticMesh: Building static mesh SM_Wall02_OuterCorner...
+[2020.01.02-22.18.20:620][979]LogStaticMesh: Built static mesh [0.24s] /Game/DA/scifi_kitbash/meshes/SM_Wall02_OuterCorner.SM_Wall02_OuterCorner
+[2020.01.02-22.18.20:818][979]LogActorFactory: Actor Factory created SM_Wall02_OuterCorner
+[2020.01.02-22.18.21:212][989]LogActorFactory: Actor Factory created SM_Wall02_OuterCorner
+[2020.01.02-22.19.02:191][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.19.14:798][830]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.19.25:493][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.19.25:551][184]LogStaticMesh: Building static mesh SM_Wall02_InnerCorner...
+[2020.01.02-22.19.25:617][184]LogStaticMesh: Built static mesh [0.07s] /Game/DA/scifi_kitbash/meshes/SM_Wall02_InnerCorner.SM_Wall02_InnerCorner
+[2020.01.02-22.19.25:918][196]LogActorFactory: Actor Factory created SM_Wall02_InnerCorner
+[2020.01.02-22.19.26:494][218]LogActorFactory: Actor Factory created SM_Wall02_InnerCorner
+[2020.01.02-22.19.31:977][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02_OuterCorner)
+[2020.01.02-22.19.32:667][461]Cmd: DELETE
+[2020.01.02-22.19.32:667][461]Cmd: ACTOR DELETE
+[2020.01.02-22.19.32:682][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.02-22.19.32:751][461]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.01.02-22.19.32:752][461]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2020.01.02-22.19.33:405][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02_InnerCorner)
+[2020.01.02-22.19.38:770][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02_InnerCorner)
+[2020.01.02-22.19.48:148][128]Cmd: TRANSACTION UNDO
+[2020.01.02-22.19.48:148][128]LogEditorTransaction: Undo Scale Actors
+[2020.01.02-22.19.48:390][136]Cmd: TRANSACTION UNDO
+[2020.01.02-22.19.48:390][136]LogEditorTransaction: Undo Move Actors
+[2020.01.02-22.20.03:479][777]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.20.06:851][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.20.07:163][910]LogActorFactory: Actor Factory created SM_Wall02
+[2020.01.02-22.20.08:028][939]LogActorFactory: Actor Factory created SM_Wall02
+[2020.01.02-22.20.19:704][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.20.22:057][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02)
+[2020.01.02-22.20.25:462][612]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.20.27:660][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02)
+[2020.01.02-22.20.28:174][714]Cmd: EDIT COPY
+[2020.01.02-22.20.28:421][723]Cmd: EDIT PASTE
+[2020.01.02-22.20.32:398][862]Cmd: EDIT COPY
+[2020.01.02-22.20.32:607][867]Cmd: EDIT PASTE
+[2020.01.02-22.20.35:208][953]Cmd: EDIT COPY
+[2020.01.02-22.20.35:483][959]Cmd: EDIT PASTE
+[2020.01.02-22.20.40:295][111]Cmd: EDIT COPY
+[2020.01.02-22.20.40:476][115]Cmd: EDIT PASTE
+[2020.01.02-22.20.45:273][269]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.20.48:177][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall102)
+[2020.01.02-22.20.48:856][386]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall100)
+[2020.01.02-22.20.50:200][431]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall4)
+[2020.01.02-22.20.53:107][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall102)
+[2020.01.02-22.21.07:172][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall100)
+[2020.01.02-22.21.08:987][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall102)
+[2020.01.02-22.21.09:648][196]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall100)
+[2020.01.02-22.21.11:075][246]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall4)
+[2020.01.02-22.21.13:464][311]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall3)
+[2020.01.02-22.21.13:940][320]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall02)
+[2020.01.02-22.21.15:361][357]Cmd: EDIT COPY
+[2020.01.02-22.21.15:657][365]Cmd: EDIT PASTE
+[2020.01.02-22.21.24:850][604]Cmd: TRANSACTION UNDO
+[2020.01.02-22.21.24:850][604]LogEditorTransaction: Undo Move Actors
+[2020.01.02-22.21.36:737][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall107)
+[2020.01.02-22.21.37:814][927]Cmd: DELETE
+[2020.01.02-22.21.37:814][927]Cmd: ACTOR DELETE
+[2020.01.02-22.21.37:825][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.02-22.21.37:894][927]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.01.02-22.21.37:895][927]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2020.01.02-22.21.44:451][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.21.44:884][102]LogActorFactory: Actor Factory created SM_Wall02_OuterCorner
+[2020.01.02-22.21.46:240][134]LogActorFactory: Actor Factory created SM_Wall02_OuterCorner
+[2020.01.02-22.21.56:719][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.22.03:162][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02_OuterCorner)
+[2020.01.02-22.22.18:217][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall3)
+[2020.01.02-22.22.18:917][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall106)
+[2020.01.02-22.22.20:158][963]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall105)
+[2020.01.02-22.22.20:618][971]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall104)
+[2020.01.02-22.22.21:188][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall103)
+[2020.01.02-22.22.24:896][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.22.42:692][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02)
+[2020.01.02-22.22.43:304][656]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall3)
+[2020.01.02-22.22.44:378][678]Cmd: EDIT COPY
+[2020.01.02-22.22.44:642][684]Cmd: EDIT PASTE
+[2020.01.02-22.22.59:208][ 87]Cmd: EDIT COPY
+[2020.01.02-22.22.59:478][ 92]Cmd: EDIT PASTE
+[2020.01.02-22.23.05:911][253]Cmd: EDIT COPY
+[2020.01.02-22.23.06:107][258]Cmd: EDIT PASTE
+[2020.01.02-22.23.26:748][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.02-22.23.30:517][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.23.30:596][894]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.23.30:651][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.23.30:652][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.23.30:652][894]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:23:30)
+[2020.01.02-22.23.30:659][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.23.30:688][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028438s)
+[2020.01.02-22.23.30:691][894]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.23.30:691][894]LogPlayLevel: PIE: World Init took: (0.003610s)
+[2020.01.02-22.23.30:691][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.032510s)
+[2020.01.02-22.23.30:745][894]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.01.02-22.23.30:755][894]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.23.30:769][894]LogInit: FAudioDevice initialized.
+[2020.01.02-22.23.30:790][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.23.30:791][894]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.23.30:818][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.23.30
+[2020.01.02-22.23.30:821][894]LogWorld: Bringing up level for play took: 0.028538
+[2020.01.02-22.23.30:821][894]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.01.02-22.23.30:832][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.23.30:832][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.23.30:832][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.23.30:832][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.23.30:851][894]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 1,1
+[2020.01.02-22.23.30:852][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.23.58:938][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.23.58:940][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.23.58:940][810]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.23.58:989][810]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.23.58:996][810]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.23.59:025][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.23.59:026][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.23.59:160][810]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2020.01.02-22.23.59:301][811]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.01.02-22.24.00:139][829]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.24.00:152][829]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.24.03:315][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall109)
+[2020.01.02-22.24.23:662][670]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.24.23:736][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.02-22.24.24:188][670]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaximeFB9B311C4E67B8D525EC169F253644FA.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.02-22.24.24:258][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.02-22.24.24:838][670]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltDataDDBE2E93434FC0864C79688AB9DC868B.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.02-22.24.32:126][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall109)
+[2020.01.02-22.24.38:601][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall109)
+[2020.01.02-22.24.41:349][302]Cmd: TRANSACTION UNDO
+[2020.01.02-22.24.41:349][302]LogEditorTransaction: Undo Scale Actors
+[2020.01.02-22.24.58:816][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall106)
+[2020.01.02-22.25.01:604][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.25.32:367][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-22.25.32:446][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.01.02-22.25.32:892][ 34]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime893876E34E9FFEF19ED2B5936122978D.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.02-22.25.32:967][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.02-22.25.33:479][ 34]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltDataB8242FA14F54A9393FA6D3B350B466F4.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.02-22.25.38:422][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall02_InnerCorner)
+[2020.01.02-22.25.56:835][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.25.56:910][676]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.25.56:961][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.25.56:962][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.25.56:962][676]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:25:56)
+[2020.01.02-22.25.56:962][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.25.56:989][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026724s)
+[2020.01.02-22.25.56:991][676]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.25.56:991][676]LogPlayLevel: PIE: World Init took: (0.001945s)
+[2020.01.02-22.25.56:991][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.028978s)
+[2020.01.02-22.25.57:051][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.01.02-22.25.57:061][676]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.25.57:074][676]LogInit: FAudioDevice initialized.
+[2020.01.02-22.25.57:099][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.25.57:099][676]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.25.57:122][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.25.57
+[2020.01.02-22.25.57:126][676]LogWorld: Bringing up level for play took: 0.025419
+[2020.01.02-22.25.57:126][676]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2020.01.02-22.25.57:137][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.25.57:137][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.25.57:137][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.25.57:137][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.25.57:158][676]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime -0,593
+[2020.01.02-22.25.57:159][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.26.09:528][ 53]LogPackageName: SearchForPackageOnDisk took   1.181s, but failed to resolve None.umap.
+[2020.01.02-22.26.09:635][ 53]LogPackageName: SearchForPackageOnDisk took   0.071s, but failed to resolve .
+[2020.01.02-22.26.09:644][ 53]LogLevel: Warning: WARNING: The map '' does not exist.
+[2020.01.02-22.26.09:739][ 54]LogPackageName: SearchForPackageOnDisk took   0.068s, but failed to resolve None.umap.
+[2020.01.02-22.26.09:752][ 54]LogNet: Browse: 
+[2020.01.02-22.26.09:755][ 54]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: 
+[2020.01.02-22.26.09:756][ 54]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: '. Shutting down PIE.
+[2020.01.02-22.26.09:761][ 54]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: '. Shutting down PIE.
+[2020.01.02-22.26.09:761][ 54]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: 
+[2020.01.02-22.26.09:762][ 54]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: '. Shutting down PIE.
+[2020.01.02-22.26.09:762][ 54]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: '. Shutting down PIE.
+[2020.01.02-22.26.09:764][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.26.09:765][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.26.09:765][ 54]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.26.09:805][ 54]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.26.09:812][ 54]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.26.09:843][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.26.09:844][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.26.09:984][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2020.01.02-22.26.10:131][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.01.02-22.26.11:792][111]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.26.11:804][111]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.26.12:625][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.01.02-22.26.13:049][131]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime49BA7AAD4F5C04ED04E443BDF95DB08B.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.02-22.26.13:121][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.02-22.26.13:631][131]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltDataF856D68C428756325DB425A3B9E5A2E3.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.02-22.26.18:005][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall108)
+[2020.01.02-22.26.20:767][345]Cmd: TRANSACTION UNDO
+[2020.01.02-22.26.20:767][345]LogEditorTransaction: Undo Move Actors
+[2020.01.02-22.26.22:640][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall108)
+[2020.01.02-22.26.23:216][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor59)
+[2020.01.02-22.26.23:883][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor57)
+[2020.01.02-22.26.24:518][465]LogEditorViewport: Clicking on Actor (LMB): Tp_level_Blueprint_C (Tp_level_Blueprint)
+[2020.01.02-22.26.39:697][990]LogEditorViewport: Clicking on Actor (LMB): CubeInteractif_C (CubeInteractif7)
+[2020.01.02-22.26.42:124][ 67]LogEditorViewport: Clicking on Actor (LMB): CubeInteractif_C (CubeInteractif6)
+[2020.01.02-22.26.46:063][186]LogEditorViewport: Clicking on Actor (LMB): CubeInteractif_C (CubeInteractif7)
+[2020.01.02-22.26.47:784][237]LogEditorViewport: Clicking on Actor (LMB): CubeInteractif_C (CubeInteractif6)
+[2020.01.02-22.26.52:498][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.02-22.26.52:589][388]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.01.02-22.26.52:644][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.26.52:644][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-22.26.52:644][388]PIE: New page: PIE session: MapsMaxime (3 janv. 2020 00:26:52)
+[2020.01.02-22.26.52:645][388]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.26.52:674][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028690s)
+[2020.01.02-22.26.52:676][388]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.02-22.26.52:676][388]LogPlayLevel: PIE: World Init took: (0.002141s)
+[2020.01.02-22.26.52:677][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MapsMaxime.MapsMaxime to /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime (0.031196s)
+[2020.01.02-22.26.52:735][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.01.02-22.26.52:746][388]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-22.26.52:757][388]LogInit: FAudioDevice initialized.
+[2020.01.02-22.26.52:780][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.26.52:781][388]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.02-22.26.52:801][388]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MapsMaxime.MapsMaxime up for play (max tick rate 60) at 2020.01.02-23.26.52
+[2020.01.02-22.26.52:804][388]LogWorld: Bringing up level for play took: 0.021858
+[2020.01.02-22.26.52:805][388]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2020.01.02-22.26.52:818][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.26.52:818][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.26.52:818][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.26.52:818][388]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set initialPosition
+[2020.01.02-22.26.52:839][388]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MapsMaxime 1,088
+[2020.01.02-22.26.52:841][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.27.05:609][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  Set Actor Enable Collision
+[2020.01.02-22.27.05:610][836]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property door". Blueprint:  Dalle Function:  Execute Ubergraph Dalle Graph:  EventGraph Node:  AddActorLocalOffset
+[2020.01.02-22.27.11:014][ 61]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.27.11:017][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-22.27.11:017][ 61]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MapsMaxime
+[2020.01.02-22.27.11:058][ 61]LogSlate: Window 'UnrealFinalProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.02-22.27.11:067][ 61]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-22.27.11:094][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-22.27.11:095][ 61]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime' with GeneratedClass '/Game/Maps/MapsMaxime.MapsMaxime_C' with ClassGeneratedBy '/Game/Maps/MapsMaxime.MapsMaxime:PersistentLevel.MapsMaxime'
+[2020.01.02-22.27.11:239][ 61]LogUObjectHash: Compacting FUObjectHashTables data took  10.13ms
+[2020.01.02-22.27.11:384][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.01.02-22.27.12:924][103]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.27.12:933][103]LogSlate: Window 'Message Log' being destroyed
+[2020.01.02-22.27.18:440][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.01.02-22.27.18:899][282]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaximeA2C5E0FB482746716D4A0FBAF461FE01.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.02-22.27.18:967][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.02-22.27.19:498][282]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltData94FAB77B4E483B9D867C97873D64B576.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
