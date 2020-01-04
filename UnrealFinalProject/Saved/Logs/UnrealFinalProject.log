@@ -7856,3 +7856,187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.04-13.43.57:701][ 80]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime788AB3AE44F0FBD68E8AED9EEC1A226D.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
 [2020.01.04-13.43.57:760][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
 [2020.01.04-13.43.59:054][ 80]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltDataAB4000E64E1335265B1BF69F48EEF2D1.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.04-13.46.22:940][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-13.46.23:975][961]MapCheck: New page: Map Check
+[2020.01.04-13.46.24:064][961]LightingResults: New page: Lighting Build - 4 janv. 2020 15:46:24
+[2020.01.04-13.46.24:165][961]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.01.04-13.46.24:170][961]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.01.04-13.46.24:176][961]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.01.04-13.46.24:231][961]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.01.04-13.46.24:231][961]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20044
+[2020.01.04-13.46.28:762][961]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.01.04-13.46.28:782][961]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.01.04-13.46.28:782][961]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.01.04-13.46.28:783][961]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.01.04-13.46.28:783][961]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.01.04-13.46.28:783][961]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.01.04-13.46.29:343][961]LogEditorBuildUtils: Build time 0:05
+[2020.01.04-13.46.29:449][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.01.04-13.46.58:855][281]LightingResults: Warning: SM_Wall02_InnerCorner Object has overlapping UVs.
+[2020.01.04-13.46.58:856][281]LightingResults: SM_Wall02_InnerCorner Lightmap UV are overlapping by 1.2%. Please adjust content - Enable Error Coloring to visualize.
+[2020.01.04-13.47.31:973][796]Job is a success!
+[2020.01.04-13.47.32:679][798]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.055s
+[2020.01.04-13.47.32:679][798]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.01.04-13.47.32:679][798]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.8Mb
+[2020.01.04-13.47.32:679][798]LogVolumetricLightmapImport:      Bricks at Level
+[2020.01.04-13.47.32:679][798]LogVolumetricLightmapImport:          0: 0.2% covering 100.0% of volume
+[2020.01.04-13.47.32:679][798]LogVolumetricLightmapImport:          1: 4.7% covering 39.1% of volume
+[2020.01.04-13.47.32:679][798]LogVolumetricLightmapImport:          2: 95.1% covering 12.4% of volume
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight39 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight3_10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight4_6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight43 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight33 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight34 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight29 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight91 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight35 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight28 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight92 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight72 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight42 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight44 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight55 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight46 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight32 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:471][798]LightingResults: Warning: PointLight90 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight47 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight56 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight51 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight30 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight27 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight89 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight36 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight19 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight52 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight73 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight53 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight45 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight48 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight79 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight50 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight31 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight37 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight80 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight62 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight63 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight58 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight54 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight41 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:472][798]LightingResults: Warning: PointLight82 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight20 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight25 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight78 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight69 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight17 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight74 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight26 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight70 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight65 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight49 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight81 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight61 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight64 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight75 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight88 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight83 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight71 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:473][798]LightingResults: Warning: PointLight15 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight13 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight84 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight87 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight67 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight76 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight68 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight60 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight77 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight66 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight9_15 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight57 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight85 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight86 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight22 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight40_5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight24 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight16 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:474][798]LightingResults: Warning: PointLight59 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:475][798]LightingResults: Warning: PointLight23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:475][798]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.33:475][798]LightingResults: Warning: PointLight5_11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 512X256)
+[2020.01.04-13.47.38:009][798]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 64X32)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 64X64)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 64X64)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 64X32)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 64X64)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 64X64)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 64X32)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2020.01.04-13.47.38:010][798]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2020.01.04-13.47.38:210][798]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 32X32)
+[2020.01.04-13.47.38:210][798]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 32X32)
+[2020.01.04-13.47.38:210][798]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 32X32)
+[2020.01.04-13.47.38:210][798]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X512)
+[2020.01.04-13.47.38:413][798]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2020.01.04-13.47.38:413][798]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (BGRA8, 1024X1024)
+[2020.01.04-13.47.38:413][798]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X1024)
+[2020.01.04-13.47.38:449][798]Lightmass on MSI: 1:08 min total, 729 ms importing, 144 ms setup, 8.42 sec photons, 58.7 sec processing, 0 ms extra exporting [904/904 mappings]. Threads: 6:51 min total, 4:39 min processing.
+[2020.01.04-13.47.38:478][798]LogStaticLightingSystem: MapsMaxime_BuiltData storing lightmap data for 904 meshes in 14 LightmapResourceClusters (64.6 Meshes per cluster).
+[2020.01.04-13.47.38:596][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.01.04-13.47.38:603][798]LogStaticLightingSystem: Illumination: 1:14 min (4.53 sec encoding lightmaps, 402 ms encoding shadowmaps)
+[2020.01.04-13.47.38:603][798]LogStaticLightingSystem: Lightmap texture memory:  19.4 MB (19.4 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.01.04-13.47.38:603][798]LogStaticLightingSystem: Shadowmap texture memory: 18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 7 textures
+[2020.01.04-13.47.39:840][798]DumpUnbuiltLightIteractions
+[2020.01.04-13.47.39:840][798]Lights with unbuilt interactions: 0
+[2020.01.04-13.47.39:840][798]
+[2020.01.04-13.47.39:840][798]Primitives with unbuilt interactions: 0
+[2020.01.04-13.47.40:076][799]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.01.04-13.47.40:083][799]MapCheck: New page: MapsMaxime - 4 janv. 2020 15:47:40
+[2020.01.04-13.47.40:106][799]MapCheck: Error: SkyLight_1 Multiple sky lights are active, only one can be enabled per world. 
+[2020.01.04-13.47.40:135][799]MapCheck: Error: SkyLight2_3 Multiple sky lights are active, only one can be enabled per world. 
+[2020.01.04-13.47.40:135][799]MapCheck: Warning: SM_Wall08_OuterCorner_96 SM_Wall08_OuterCorner_96 is in the same location as SM_Wall08_OuterCorner2 
+[2020.01.04-13.47.40:136][799]MapCheck: Warning: SM_Wall08_OuterCorner2 SM_Wall08_OuterCorner2 is in the same location as SM_Wall08_OuterCorner_96 
+[2020.01.04-13.47.40:137][799]MapCheck: Warning: SM_Light03_20 Static mesh actor has NULL StaticMesh property 
+[2020.01.04-13.47.40:137][799]MapCheck: Warning: SM_Light38 Static mesh actor has NULL StaticMesh property 
+[2020.01.04-13.47.40:137][799]MapCheck: Warning: SM_Light39_27 Static mesh actor has NULL StaticMesh property 
+[2020.01.04-13.47.40:137][799]MapCheck: Warning: SM_Light40_30 Static mesh actor has NULL StaticMesh property 
+[2020.01.04-13.47.40:137][799]MapCheck: Warning: SM_Container_36 Static mesh actor has NULL StaticMesh property 
+[2020.01.04-13.47.40:137][799]MapCheck: Warning: SM_Container2 Static mesh actor has NULL StaticMesh property 
+[2020.01.04-13.47.40:137][799]MapCheck: Warning: SM_Container3_40 Static mesh actor has NULL StaticMesh property 
+[2020.01.04-13.47.40:141][799]MapCheck: Warning: SM_Wall198 SM_Wall198 is in the same location as SM_Wall200 
+[2020.01.04-13.47.40:141][799]MapCheck: Warning: SM_Wall200 SM_Wall200 is in the same location as SM_Wall198 
+[2020.01.04-13.47.40:184][799]MapCheck: Map check complete: 2 Error(s), 11 Warning(s), took 100,765ms to complete.
+[2020.01.04-13.47.44:126][  8]LogSlate: Window 'Message Log' being destroyed
+[2020.01.04-13.47.44:134][  8]LogSlate: Window 'Message Log' being destroyed
