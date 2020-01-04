@@ -8051,3 +8051,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.04-13.49.42:352][956]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime6EFA66BE4A5B975726FE439EFEA6E5CA.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
 [2020.01.04-13.49.42:406][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
 [2020.01.04-13.49.43:507][956]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltData2FAD21964E136F79DED714BE4491AD7D.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.04-13.51.15:686][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-13.51.17:479][813]LogAIModule: Creating AISystem for world MapsLilian
+[2020.01.04-13.51.17:623][813]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MapsLilian.MapsLilian
+[2020.01.04-13.51.17:668][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.01.04-13.51.17:749][813]Cmd: MAP LOAD FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsLilian.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-13.51.17:758][813]LightingResults: New page: Lighting Build
+[2020.01.04-13.51.17:787][813]LoadErrors: New page: Loading map: MapsLilian.umap
+[2020.01.04-13.51.17:854][813]LogWorld: UWorld::CleanupWorld for MapsMaxime, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-13.51.17:856][813]MapCheck: New page: Map Check
+[2020.01.04-13.51.17:856][813]LightingResults: New page: Lighting Build
+[2020.01.04-13.51.17:964][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.01.04-13.51.18:360][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-13.51.18:432][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.01.04-13.51.18:496][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-13.51.18:496][813]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,167ms to complete.
+[2020.01.04-13.51.18:496][813]LogFileHelpers: Loading map 'MapsLilian' took 0.828
+[2020.01.04-13.51.20:654][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-13.51.20:981][947]LogLinker: Warning: While loading '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsKillian_petite.umap' failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.20:982][947]LogLinker: Warning: While loading '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsKillian_petite.umap' failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:272][947]LogLinker: Warning: While loading '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsKillian_petite.umap' failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:273][947]LogLinker: Warning: While loading '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsKillian_petite.umap' failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:285][947]LogLinker: Warning: Failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:285][947]LogLinker: Warning: Failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:285][947]LogLinker: Warning: Failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:285][947]LogLinker: Warning: Failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:369][947]LogLinker: Warning: While loading '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsKillian_petite.umap' failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.22:369][947]LoadErrors: Failed to load /Game/Maps/MapsKillian_petite_BuiltData.MapsKillian_petite_BuiltData Referenced by PersistentLevel
+[2020.01.04-13.51.22:369][947]LogLinker: Warning: While loading '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsKillian_petite.umap' failed to load '/Game/Maps/MapsKillian_petite_BuiltData': Can't find file.
+[2020.01.04-13.51.23:297][947]LogAIModule: Creating AISystem for world MapsKillian_petite
+[2020.01.04-13.51.23:369][947]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MapsKillian_petite.MapsKillian_petite
+[2020.01.04-13.51.23:421][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.01.04-13.51.23:422][947]Cmd: MAP LOAD FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsKillian_petite.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-13.51.23:422][947]LightingResults: New page: Lighting Build
+[2020.01.04-13.51.23:422][947]LoadErrors: New page: Loading map: MapsKillian_petite.umap
+[2020.01.04-13.51.23:423][947]LogWorld: UWorld::CleanupWorld for MapsLilian, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-13.51.23:424][947]MapCheck: New page: Map Check
+[2020.01.04-13.51.23:424][947]LightingResults: New page: Lighting Build
+[2020.01.04-13.51.23:457][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.01.04-13.51.23:826][947]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-13.51.23:884][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.01.04-13.51.23:933][947]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-13.51.23:933][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,194ms to complete.
+[2020.01.04-13.51.23:933][947]LogFileHelpers: Loading map 'MapsKillian_petite' took 0.512
+[2020.01.04-13.51.30:022][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-13.51.30:950][343]LogAIModule: Creating AISystem for world MapsMaxime
+[2020.01.04-13.51.31:037][343]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MapsMaxime.MapsMaxime
+[2020.01.04-13.51.31:096][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.01.04-13.51.31:097][343]Cmd: MAP LOAD FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.04-13.51.31:097][343]LightingResults: New page: Lighting Build
+[2020.01.04-13.51.31:098][343]LoadErrors: New page: Loading map: MapsMaxime.umap
+[2020.01.04-13.51.31:102][343]LogWorld: UWorld::CleanupWorld for MapsKillian_petite, bSessionEnded=true, bCleanupResources=true
+[2020.01.04-13.51.31:103][343]MapCheck: New page: Map Check
+[2020.01.04-13.51.31:103][343]LightingResults: New page: Lighting Build
+[2020.01.04-13.51.31:147][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.01.04-13.51.31:535][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.04-13.51.31:604][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.01.04-13.51.31:651][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.04-13.51.31:651][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,191ms to complete.
+[2020.01.04-13.51.31:651][343]LogFileHelpers: Loading map 'MapsMaxime' took 0.554
+[2020.01.04-13.51.56:495][559]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.04-13.52.06:850][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RailRed6m4)
+[2020.01.04-13.52.07:419][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RailRed6m3)
+[2020.01.04-13.52.11:426][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-13.52.11:618][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.01.04-13.52.13:085][931]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaximeA65AC0EF4DCD6B615D2948BDB56B8996.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.04-13.52.13:175][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.04-13.52.15:140][931]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltDataB21FBF6249D4A3490E54319637B0B50C.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
