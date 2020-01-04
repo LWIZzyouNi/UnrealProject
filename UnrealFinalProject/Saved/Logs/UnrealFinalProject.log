@@ -8040,3 +8040,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.04-13.47.40:184][799]MapCheck: Map check complete: 2 Error(s), 11 Warning(s), took 100,765ms to complete.
 [2020.01.04-13.47.44:126][  8]LogSlate: Window 'Message Log' being destroyed
 [2020.01.04-13.47.44:134][  8]LogSlate: Window 'Message Log' being destroyed
+[2020.01.04-13.49.24:157][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-13.49.24:436][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.01.04-13.49.25:117][279]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime58FF5AEE458C56DF2C6A8F9F5E806586.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.04-13.49.25:193][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.04-13.49.26:300][279]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltData5ECECDD34F1727339AACA89CD4C595F7.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
+[2020.01.04-13.49.38:045][750]LogEditorViewport: Clicking on Actor (LMB): SphereInteractif_C (SphereInteractif)
+[2020.01.04-13.49.41:624][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.04-13.49.41:775][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.01.04-13.49.42:352][956]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime6EFA66BE4A5B975726FE439EFEA6E5CA.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime.umap'
+[2020.01.04-13.49.42:406][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MapsMaxime_BuiltData" FILE="../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset" SILENT=true
+[2020.01.04-13.49.43:507][956]LogSavePackage: Moving '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Saved/MapsMaxime_BuiltData2FAD21964E136F79DED714BE4491AD7D.tmp' to '../../../../Projet/Survival FinalProject/Unreal_Final_Project/UnrealFinalProject/Content/Maps/MapsMaxime_BuiltData.uasset'
